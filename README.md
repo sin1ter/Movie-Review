@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Movie Review REST API 🎬 👋</h1>
+<h1 align="center">Welcome to Movie Review REST API 🎬 </h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v1-blue.svg?cacheSeconds=2592000" />
 </p>
